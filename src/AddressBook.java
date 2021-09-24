@@ -18,7 +18,8 @@ public class AddressBook {
             }
         }
     }
-
+    
+    //Main method
     public static void main(String[] args) {
         BuddyInfo newInfo = new BuddyInfo("Ese", "35 Bland street", "5856790930" );
         AddressBook address = new AddressBook();
